@@ -3,7 +3,7 @@
 ## Tasks
 
 ### Mandatory task:  
-0.  Create a table with student data groups. 
+0.  Create a table with student data groups.  
 	Create a Java application to obtain a list of all students in a group.  
 
 ### Extra credit task:  
