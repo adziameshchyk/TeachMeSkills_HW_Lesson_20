@@ -12,6 +12,8 @@
 	Provide for operations of adding new cities, new students,  
 	deleting students and deleting cities.    
 
-# DATABASE AND TABLES SCREENSHOTS
+---
+
+### [DATABASE AND TABLES SCREENSHOTS](databaseScreenshots)
 
 
