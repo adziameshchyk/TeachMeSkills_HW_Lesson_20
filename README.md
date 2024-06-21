@@ -11,3 +11,7 @@
 	students. Display information about each student in the group and his hometown.  
 	Provide for operations of adding new cities, new students,  
 	deleting students and deleting cities.    
+
+# DATABASE AND TABLES SCREENSHOTS
+
+
