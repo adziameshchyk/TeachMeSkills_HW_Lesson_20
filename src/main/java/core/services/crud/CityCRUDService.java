@@ -19,6 +19,8 @@ public class CityCRUDService {
     public static final String INSERT_CITY = "INSERT INTO cities (name) VALUES (?)";
     public static final String DELETE_BY_ID = "DELETE FROM cities WHERE id = ?";
 
+    
+
     public City getCityById(int id) {
         City city = null;
 
